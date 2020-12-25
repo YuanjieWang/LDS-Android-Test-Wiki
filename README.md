@@ -15,6 +15,7 @@
 
 ### 安卓
 - [adb](https://developer.android.com/studio/command-line/adb.html) - 安卓SDK自带的调试工具，通过adb shell命令获取性能数据
+  https://github.com/mzlogin/awesome-adb
 - [mobileperf](https://github.com/alibaba/mobileperf) - 阿里开源的基于adb的性能数据收集工具（支持Android5.0-10.0）
 - [PerfDog](https://perfdog.qq.com/) - 腾讯WeTest出品的性能数据采集，分析工具，无需Root
 - [Battery Historian](https://github.com/google/battery-historian) - 生成电量消耗报告
